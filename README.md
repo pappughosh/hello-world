@@ -138,6 +138,7 @@ Make sure to see [CONTRIBUTING.md](/CONTRIBUTING.md) for instructions on contrib
 * [Beatnik](b/beatnik.beatnik)
 * [Beef](b/beef.bf)
 * [Befunge](b/befunge.be)
+* [Bengali](b/bengali.c)
 * [Bennugd](b/BennuGD)
 * [Beta](b/beta.bet)
 * [Binaryfuck](b/binaryfuck.bf)
